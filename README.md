@@ -4,14 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Specialist</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 - 💻 Passionate Full Stack Developer building real-world web applications  
 - 🌱 Currently improving **System Design & Scalable Architecture**  
-- 🔐 Strong focus on **Authentication & Security (JWT, OTP, Firebase)**  
 - ☁️ Exploring **Cloud (AWS S3) & Backend Optimization**  
 - 🚀 Love turning ideas into production-ready apps  
 
@@ -41,11 +40,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Job Portal Platform
-- Laborers can search & apply for jobs  
-- Aadhaar verification & multi-language support  
+## 🚀 Featured Projects 
 
 ### 🔹 Blogging Platform
 - Full CRUD blog system  
@@ -72,10 +67,10 @@
   <a href="https://github.com/TechAsish1212">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/asish12">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:asishkrbera3804@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
