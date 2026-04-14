@@ -80,28 +80,35 @@ JWT • OAuth • OTP Verification
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechAsish1212&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🚀 Featured Projects 
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/TechAsish1212/blog-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAsish1212&repo=YOUR_BLOG_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TechAsish1212/portfolio12">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAsish1212&repo=YOUR_PORTFOLIO_REPO&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/TechAsish1212/feedback-fusion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAsish1212&repo=YOUR_OTHER_PROJECT&theme=tokyonight&hide_border=true" />
-  </a>
-</p> 
+## 🚀 Projects
 
 ---
+
+### 🔹 Blogging Platform
+- ✍️ Create, edit, delete blogs  
+- ❤️ Likes, comments, notifications  
+- 🔐 JWT & Google Authentication  
+- ⚙️ Tech: MERN Stack  
+
+👉 [View Project](https://github.com/TechAsish1212/blog-server)
+
+---
+
+### 🔹 Portfolio Website
+- 🎨 Responsive & modern UI  
+- ⚡ Fast performance  
+- 📱 Mobile-friendly  
+
+👉 [View Project](https://github.com/TechAsish1212/portfolioadmin12)
+
+### 🔹 FeedbackFusion
+
+- 📝 Collect and manage user feedback in one place  
+- 📊 Dashboard with analytics & insights  
+- 🔐 Secure authentication system  
+- ⚡ Real-time updates & smooth UI   
+
+👉 [View Code](https://github.com/TechAsish1212/feedback-fusion)
 
 ## 📈 Contribution Graph
 
