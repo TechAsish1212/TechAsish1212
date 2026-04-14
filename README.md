@@ -16,10 +16,45 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,aws,git,github,postman,firebase" />
+### 🚀 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind" />
+</p>
+
+### 🔧 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,restapi" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### 🔐 Authentication & Security
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,jwt" />
+</p>
+
+<p>
+JWT • OAuth • OTP Verification
+</p>
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+### 🎯 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,docker" />
 </p>
 
 ---
