@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Asish Kumar Bera</h1>
+<h1 align="center">Hi there 👋, I'm Asish Kumar Bera</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Tech;Backend+Specialist" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | Backend Specialist</h3>
+<h3 align="center"> Full Stack Developer | Backend Specialist</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Passionate Full Stack Developer building real-world web applications  
-- 🌱 Currently improving **System Design & Scalable Architecture**  
-- ☁️ Exploring **Cloud (AWS S3) & Backend Optimization**  
-- 🚀 Love turning ideas into production-ready apps  
+- Passionate Full Stack Developer building real-world web applications  
+- Currently improving **System Design & Scalable Architecture**  
+- Exploring **Cloud (AWS S3) & Backend Optimization**  
+- Love turning ideas into production-ready apps  
 
 ---
 
