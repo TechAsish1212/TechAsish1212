@@ -57,10 +57,6 @@ JWT • OAuth • OTP Verification
 ## 🎯 Currently Learning & Growing
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts" />
-</p>
-
-<p align="center">
   🤖 AI Development • 📱 React Native • 🧠 System Design
 </p>
 
