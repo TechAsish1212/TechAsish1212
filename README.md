@@ -119,7 +119,7 @@ JWT • OAuth • OTP Verification
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechAsish1212&theme=github-compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechAsish1212&theme=github_dark" width="100%" />
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
